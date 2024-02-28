@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tianer1123
 - 👀 I’m interested in cartoon
-- 🌱 I’m currently learning about penetration testing
+- :battery: I’m currently learning about penetration testing
 - 📫 q2719833@126.com
 
 <!---
